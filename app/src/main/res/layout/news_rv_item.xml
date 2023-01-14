@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="#8FA8BD"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/newsImage"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/newsHeading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/newsImage"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:fontFamily="@font/poppinsbold"
+            android:maxLines="2"
+            android:padding="3dp"
+            android:text="News Heading"
+            android:textColor="#333245"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sub Heading"
+            android:layout_below="@id/newsHeading"
+            android:textColor="@color/white"
+            android:maxLines="3"
+            android:padding="3dp"
+            android:textSize="12sp"
+            android:fontFamily="@font/poppinsemibold"
+            android:layout_margin="3dp"
+            android:id="@+id/newssubHeading"/>
+
+    </RelativeLayout>
+
+
+</com.google.android.material.card.MaterialCardView>
