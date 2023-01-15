@@ -3,6 +3,8 @@
 
 Welcome to NewShot, your go-to app for the latest news and updates. Our app uses the https://newsapi.org/ to provide you with the latest stories from around the world, covering a wide range of topics such as politics, business, sports, technology, and more. With NewShot, you'll never miss a breaking story again. Stay informed, stay ahead, and stay connected with NewShot. 
 
+https://wakatime.com/@16d869e8-f95c-4dcb-a9bd-1a4049e80b51/projects/bennbdworw?start=2023-01-09&end=2023-01-15
+
 ## Features
 
 - Smooth Onboarding 
