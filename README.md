@@ -1,6 +1,8 @@
 
 # NewShot 
 
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+
 Welcome to NewShot, your go-to app for the latest news and updates. Our app uses the https://newsapi.org/ to provide you with the latest stories from around the world, covering a wide range of topics such as politics, business, sports, technology, and more. With NewShot, you'll never miss a breaking story again. Stay informed, stay ahead, and stay connected with NewShot. 
 
 
